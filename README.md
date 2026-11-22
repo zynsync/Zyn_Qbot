@@ -1,5 +1,6 @@
 # Zyn_Qbot
 注：源码去release拿！
+求求给个star⭐
 
 一个跑在本地、接自己 AI 模型的 QQ 机器人。单文件 Python，没有框架，没有数据库，配置全在网页上点。
 做成微agent了（
