@@ -11,7 +11,7 @@
 **一.去release下载admin.html
 与Zyn_Qbot.py
 或直接下载zip解压**
-二.**cd 到文件目录然后运行命令 **
+**二.cd 到文件目录然后运行命令**
 ```bash
 python3 qq_bot.py
 ```
